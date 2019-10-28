@@ -1,0 +1,17 @@
+.slider {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    list-style: none;
+    width: 800px;
+    height: 400px;
+    padding: 0;
+  }
+  
+  .slider li {
+    display: block;
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    right: 100%;
+  }
