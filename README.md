@@ -1,2 +1,2 @@
-# slider
- 
+# Slider
+ - implementation of simple slider
